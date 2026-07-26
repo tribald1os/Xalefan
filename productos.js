@@ -28,7 +28,7 @@ const productos = [
     {
     id: 149,
     nombre: "Reloj Rolex",
-    imagen: "productos/rolex.jpg",
+    imagen: "productos/rolex.jpeg",
     categoria: "Tecnología",
     precio: "14",
     precioAnterior: "19.000",
