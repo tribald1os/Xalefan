@@ -7,7 +7,7 @@
 const configuracion = {
 
   // Identidad de la tienda
-  nombre: "Selecta",
+  nombre: "Xalefans",
   eslogan: "Tienda seleccionada",
   logo: "iconos/logo.png",
   heroImagen: "iconos/hero.jpg",
@@ -15,7 +15,7 @@ const configuracion = {
   // Textos de la portada
   heroTitulo: "Encuentra los mejores productos al mejor precio",
   heroSubtitulo:
-    "Comparamos y seleccionamos productos de confianza en Amazon, AliExpress y tiendas oficiales. Tú eliges, nosotros filtramos el ruido.",
+    "Comparamos y seleccionamos productos de confianza en USFANS. Tú eliges.",
   heroBotonTexto: "Ver productos",
 
   // Moneda usada al mostrar precios
@@ -23,15 +23,14 @@ const configuracion = {
 
   // Datos de contacto / confianza
   descripcion:
-    "Selecta es un catálogo curado de productos recomendados. No vendemos directamente: te llevamos a la tienda oficial de cada producto para que compres con total seguridad.",
-  emailContacto: "hola@selecta-tienda.com",
+    "Xalefans es un catálogo curado de productos recomendados. No vendemos directamente: te llevamos a la tienda oficial de cada producto para que compres con total seguridad.",
 
   // Redes sociales (deja vacío "" para ocultar un icono)
   redesSociales: {
-    instagram: "https://instagram.com/",
-    tiktok: "https://tiktok.com/",
-    youtube: "https://youtube.com/",
-    pinterest: "https://pinterest.com/"
+    instagram: "",
+    tiktok: "",
+    youtube: "",
+    pinterest: ""
   },
 
   // Categorías disponibles para el filtro (deben coincidir con productos.js)
@@ -39,5 +38,5 @@ const configuracion = {
 
   // Aviso legal breve sobre afiliación (se muestra en el footer)
   avisoAfiliados:
-    "Selecta participa en programas de afiliados. Podemos recibir una comisión por las compras realizadas a través de nuestros enlaces, sin coste adicional para ti."
+    "Xalefans participa en programas de afiliados. Podemos recibir una comisión por las compras realizadas a través de nuestros enlaces, sin coste adicional para ti."
 };
