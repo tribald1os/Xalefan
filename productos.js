@@ -28,11 +28,11 @@ const productos = [
     {
     id: 149,
     nombre: "Reloj Rolex",
-    imagen: "productos/rolex",
+    imagen: "productos/rolex.jpg",
     categoria: "Tecnología",
     precio: "14,99",
     precioAnterior: "19.000",
-    descuento: "",
+    descuento: "99,92",
     descripcion: "Viene con caja",
     valoracion: 5,
     numValoraciones: 400,
