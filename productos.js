@@ -27,13 +27,13 @@ const productos = [
 
     {
     id: 149,
-    nombre: "Reloj Rolex",
+    nombre: "Rolex Oyter Perpetual",
     imagen: "productos/rolex.jpeg",
     categoria: "Accesorios",
     precio: "14,03",
     precioAnterior: "19.000",
     descuento: "",
-    descripcion: "Viene con caja",
+    descripcion: "Reloj Rolex Oyster Perpetual original en acero Oystersteel. Movimiento automático de manufactura con certificación de Cronómetro Superlativo. El modelo clásico, minimalista y elegante de Rolex, sin fecha y con el icónico brazalete Oyster.",
     valoracion: 5,
     numValoraciones: 400,
     tienda: "USFANS",
