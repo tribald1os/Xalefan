@@ -30,7 +30,7 @@ const productos = [
     nombre: "Reloj Rolex",
     imagen: "productos/rolex.jpeg",
     categoria: "Accesorios",
-    precio: "14",
+    precio: "14.03",
     precioAnterior: "19.000",
     descuento: "",
     descripcion: "Viene con caja",
