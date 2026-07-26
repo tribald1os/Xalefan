@@ -27,7 +27,7 @@ const productos = [
 
     {
     id: 149,
-    nombre: "Rolex Oyter Perpetual",
+    nombre: "Relojes Rolex: Oyster Perpetual, Submariner y Daytona",
     imagen: "productos/rolex.jpeg",
     categoria: "Accesorios",
     precio: "14,03",
