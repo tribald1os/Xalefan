@@ -41,5 +41,21 @@ const productos = [
     destacado: true,
     oferta: true
   },
+     {
+    id: 39857,
+    nombre: "Botas",
+    imagen: "productos/imagen.png",
+    categoria: "Accesorios",
+    precio: "15,99",
+    precioAnterior: "150",
+    descuento: "",
+    descripcion: "Jdrjnfjf",
+    valoracion: 5,
+    numValoraciones: 600,
+    tienda: "USFANS",
+    enlace: "https://amazon.com",
+    destacado: true,
+    oferta: true
+  },
 
 ];
